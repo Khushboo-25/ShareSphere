@@ -6,6 +6,8 @@
 .pnp.js
 /.env
 
+/images
+
 # testing
 /coverage
 
